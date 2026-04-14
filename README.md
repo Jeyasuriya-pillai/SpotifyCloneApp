@@ -34,16 +34,30 @@ This project is built to practice Android development and understand how music s
 
 ---
 
+## 📥 Download
+
+👉 Download the latest APK from here:
+🔗 https://github.com/Jeyasuriya-pillai/SpotifyCloneApp/releases/tag/v1.0
+
+---
+
 ## 📥 Installation
 
-1. Download the APK from the **Assets section**
+1. Download the APK from the link above
 2. Enable "Install from Unknown Sources"
 3. Install and run the app on your device
 
 ---
 
-## 📌 Note
+## 🚀 Note
 
 This project was created to improve development skills and to understand the basics of building a music streaming application.
 It represents my learning journey and practical implementation of app features.
+
+---
+
+## 📌 Thank You
+
+Thanks for checking out this project!
+
 
